@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
   <p>Such is a Dev life</p>
+ <p>testing jenkins poll scm</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
